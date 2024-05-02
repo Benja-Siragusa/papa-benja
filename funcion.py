@@ -1,4 +1,4 @@
 def saludar(nombre):
     return("hola como estas "+nombre)
 
-print(saludar("jorge"))
+print(saludar("lucas"))
